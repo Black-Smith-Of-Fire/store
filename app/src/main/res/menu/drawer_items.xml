@@ -2,27 +2,14 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <!--        android:icon=""-->
     <item
-        android:id="@+id/navMenu"
-        android:title="Menu"/>
+        android:id="@+id/todolist"
+        android:title="To Do List"/>
     <item
-        android:id="@+id/navMenu1"
-        android:title="Menu"/>
+        android:id="@+id/timetable"
+        android:title="Time Table"/>
 
     <item
-        android:id="@+id/navMenu2"
-        android:title="Menu"/>
-
-    <item
-        android:id="@+id/navMenu3"
-        android:title="Menu"/>
-
-    <item
-        android:id="@+id/navMenu4"
-        android:title="Menu"/>
-
-    <item
-        android:id="@+id/navMenu5"
-        android:title="Menu"/>
-
+        android:id="@+id/settime"
+        android:title="Set Time"/>
 
 </menu>
